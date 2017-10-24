@@ -8,6 +8,8 @@
 - Live Code Editing
 - Media Player
 - Skype inovador?
+- Social Network? About what topic?
+
 
 ### TODO - DECIDE 
 
@@ -22,6 +24,10 @@
 - Monolítico 
 
 ##### STACK DE TECNOLOGIAS
+
+###### DEVICES
+
+- Web, Mobile, Desktop ..? 
 
 ###### FRONT
 
@@ -54,7 +60,7 @@
 ###### TESTS 
 
 - ?
-
+- Jest + Mocha w/ Jquery + Enzyme AirBnB ?
 
 ###### CLOUD
 
