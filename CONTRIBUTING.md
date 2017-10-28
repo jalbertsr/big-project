@@ -36,3 +36,14 @@ Some things that will increase the chance that your pull request is accepted:
 
 [style]: https://github.com/thoughtbot/guides/tree/master/style
 [commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+
+## How to contribute by making pull request?
+
+- Create a new branch with the prefix ("fix/ or feature/") following by the name of your branch.
+- The name of the branch must be in lowercase, with a short and clear description.
+- Example: feature/name-of-your-branch
+- The PR (pull request) must be done in develop branch, never in master.
+- Once you made the pull request, the changes must be reviewed by at least two contributors.
+- Finally, if the review passed, you should merge the pull request with develop branch, and delete your current branch.
+
+
