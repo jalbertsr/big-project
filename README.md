@@ -9,6 +9,7 @@
 - Media Player
 - Skype inovador?
 - Social Network? About what topic?
+- Drag & Drop App
 
 
 ### TODO - DECIDE 
