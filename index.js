@@ -68,6 +68,7 @@ app.get('/blobservice/getBlobs/:containerName', (req, res) => {
   })
 })
 
+// Download the file
 app.get('/blobservice/downloadBlob/:containerName/:blobName', (req, res) => {
   const { containerName, blobName } = req.params
   blobSvc.getBlobToStream(containerName, blobName, fs.createWriteStream('output.txt'), function (error, result, response) {
