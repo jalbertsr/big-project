@@ -1,14 +1,8 @@
 # PROJECT UNDER CONSTRUCTION
 
-**sistema pull request**
+## DESCRIPTION
 
-## PROJECT IDEAS
-
-- Slack/Gitter/Descord
-- Live Code Editing
-- Media Player
-- Skype inovador?
-- Social Network? About what topic?
+Drag & Drop files into the application share it with friend or with your work team, tag your files and organize it by category. 
 
 
 ### TODO - DECIDE 
@@ -20,50 +14,40 @@
 - https://github.com/zkavtaskin/Domain-Driven-Design-Example/blob/master/README.md
 - http://jeffreypalermo.com/blog/the-onion-architecture-part-1/
 
-- Microservicios
-- Monolítico 
-
 ##### STACK DE TECNOLOGIAS
 
 ###### DEVICES
 
-- Web, Mobile, Desktop ..? 
+- Web
+- Desktop
 
 ###### FRONT
 
 - React
-- Angular
-- Vue 
-- Librerías
-  - https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651
-
 
 ###### BACK
 
 - Node
   - Express
-  - Sails
-  - Mirar -> https://github.com/pillarjs/node-frameworks
+  - More freamworks -> https://github.com/pillarjs/node-frameworks
 - Ruby
-  - Ruby on Rails
 - Python
   - Flask
   - Django
+- Elixir
+- Scala
 
 
 ###### DB
-
-- Mongo
-- Redis
-- Mirar -> http://expressjs.com/en/guide/database-integration.html#mysql
+- DB Integrations -> http://expressjs.com/en/guide/database-integration.html#mysql
 
 ###### TESTS 
 
-- ?
-- Jest + Mocha w/ Jquery + Enzyme AirBnB ?
+- Jest + Mocha w/ Jquery + Enzyme AirBnB 
 
 ###### CLOUD
 
 - Azure
 - Heroku 
+- Amazon
 - Digital Ocean

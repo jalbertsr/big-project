@@ -5,34 +5,23 @@ agree to abide by the code of conduct.
 
 [code of conduct]: https://thoughtbot.com/open-source-code-of-conduct
 
-Fork, then clone the repo:
 
-    git clone git@github.com:yourusername/big-project.git
+## How to contribute by making pull request?
 
-Set up your local machine and install packages:
+- Create a new branch with the prefix ("fix/ or feature/") following by the name of your branch.
+- The name of the branch must be in lowercase, with a short and clear description.
+- Example: feature/name-of-your-branch
+- The PR (pull request) must be done in develop branch, never in master.
+- Once you made the pull request, the changes must be reviewed by at least two contributors.
+- Finally, if the review passed, you should merge the pull request with develop branch, and delete your current branch.
 
-    npm install
-```
-yarn install
-```
-Make sure the tests pass:
-
-```
-comando/script por crear
-```
-
-Push to your fork and [submit a pull request][pr].
-
-[pr]: https://github.com/jalbertsr/big-project/compare
-
-At this point you're waiting on us. We like to at least comment on pull requests
-within three business days. We may suggest some changes or improvements or alternatives.
+We like to at least comment on pull requests within three business days. We may suggest some changes or improvements or alternatives.
 
 Some things that will increase the chance that your pull request is accepted:
 
 * Write tests.
-* Follow our [style guide][style]. (estilos standard por definir)
-* Write a [good commit message][commit]. (git comments standard pro definir)
+* Follow our [style guide][style]. 
+* Write a [good commit message][commit].
 
-[style]: https://github.com/thoughtbot/guides/tree/master/style
-[commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[style]: https://github.com/jalbertsr/big-project/blob/develop/STYLE_GUIDE.md
+[commit]: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
