@@ -4,7 +4,9 @@
   "description": "A big project?",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev:debug": "DEBUG=*,-nodemon*,-send*, npm run dev"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/jalbertsr/big-project/issues"
   },
-  "homepage": "https://github.com/jalbertsr/big-project#readme"
+  "homepage": "https://github.com/jalbertsr/big-project#readme",
+  "dependencies": {
+    "azure-storage": "^2.6.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2"
+  }
 }
