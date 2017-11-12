@@ -4,7 +4,6 @@
 
 Drag & Drop files into the application share it with friend or with your work team, tag your files and organize it by category. 
 
-
 ### TODO - DECIDE 
 
 - Nombre del proyecto (cambiar nombre repo)
